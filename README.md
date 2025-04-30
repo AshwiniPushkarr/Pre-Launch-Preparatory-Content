@@ -12,10 +12,19 @@ Refer the links for future use:
 ### Functions & polynomials 
 
 
+
 Linear equations, functions & graphs - https://www.khanacademy.org/math/algebra-home/alg-linear-eq-func
+
+
 Functions - https://www.khanacademy.org/math/algebra-home/alg-functions
+
+
 Quadratic equations & functions - https://www.khanacademy.org/math/algebra-home/alg-quadratics
+
+
 Polynomial expressions, equations & functions - https://www.khanacademy.org/math/algebra-home/alg-polynomials
+
+
 Exponential & logarithmic functions - https://www.khanacademy.org/math/algebra-home/alg-exp-and-log
 
 
@@ -23,6 +32,8 @@ Exponential & logarithmic functions - https://www.khanacademy.org/math/algebra-h
 
 
 Taking derivatives - https://www.khanacademy.org/math/calculus-home/taking-derivatives-calc
+
+
 Derivative applications - https://www.khanacademy.org/math/calculus-home/derivative-applications-calc
 
 
@@ -36,6 +47,8 @@ Matrices - https://www.khanacademy.org/math/algebra-home/alg-matrices
 
 
 Basic probability - https://www.khanacademy.org/math/statistics-probability/probability-library
+
+
 Random variables - https://www.khanacademy.org/math/statistics-probability/random-variables-stats-library
 
 
@@ -43,4 +56,6 @@ Random variables - https://www.khanacademy.org/math/statistics-probability/rando
 
 
 Trigonometric functions - https://www.khanacademy.org/math/algebra-home/alg-trig-functions
+
+
 Graph of trigonometric functions - https://www.khanacademy.org/math/trigonometry/trig-function-graphs
